@@ -25,7 +25,6 @@
 	right=2cm,%
 	top=2cm,%
 	bottom=2cm}
-\usetkzobj{all}
 \def\@makechapterhead#1{%
 	{\parindent \z@ \raggedright \color{mycalc}\normalfont
 		\ifnum \c@secnumdepth >\m@ne
